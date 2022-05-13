@@ -65,7 +65,8 @@
     "webpack-merge": "5.8.0"
   },
   "dependencies": {
-    "@azure/apimanagement-custom-widget-scaffolder": "file:azure-apimanagement-custom-widget-scaffolder-0.1.0.tgz",
+    "@azure/apimanagement-custom-widget-scaffolder": "file:azure-apimanagement-custom-widget-scaffolder-0.2.1.tgz",
+    "@azure/apimanagement-custom-widget-tools": "file:azure-apimanagement-custom-widget-tools-0.1.0.tgz",
     "@braintree/sanitize-url": "6.0.0",
     "@monaco-editor/loader": "^1.2.0",
     "@paperbits/azure": "0.1.493",
